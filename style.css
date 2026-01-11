@@ -75,3 +75,16 @@ font-weight:bold;
 .cv-btn:hover{
 background:#000;
 }
+.project a{
+display:inline-block;
+margin-top:10px;
+color:white;
+background:#1c92d2;
+padding:8px 15px;
+border-radius:6px;
+text-decoration:none;
+}
+
+.project a:hover{
+background:#125f8a;
+}
