@@ -61,3 +61,17 @@ border-radius:10px;
 #contact a{
 color:#1c92d2;
 }
+.cv-btn{
+display:inline-block;
+margin-top:20px;
+padding:12px 30px;
+background:#222;
+color:white;
+text-decoration:none;
+border-radius:30px;
+font-weight:bold;
+}
+
+.cv-btn:hover{
+background:#000;
+}
